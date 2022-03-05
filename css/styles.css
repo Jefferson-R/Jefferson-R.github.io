@@ -2,4 +2,13 @@ body{
     font-family: 'Courier New', Courier, monospace;
     color:deeppink;
     text-align: center;
+    margin-top: 0%;
+}
+#cabecera div{
+	margin-top: 20%;
+	border: 1px solid black;
+    width: 70%;
+    margin-top: 100px;
+    margin: 0 auto;
+    margin-top: 5%;
 }
