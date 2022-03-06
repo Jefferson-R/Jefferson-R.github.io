@@ -12,12 +12,12 @@ body{
 }
 
 #cabecera h1{
-    background-color:#9df5f8;
+    background-color:rgb(56, 56, 56);
     text-align: center;
     height: auto;
     margin: auto;
     margin-top: 0%;
-    color: black;
+    color: pink;
     border: 1px solid black;
     font-family: Calibri;
 }
