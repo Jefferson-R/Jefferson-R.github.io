@@ -4,17 +4,20 @@ body{
     text-align: center;
 }
 
-#cabecera{
+#cabecera div{
 	border: 1px solid black;
     width: 70%;
     margin: 0 auto;
     margin-top: 5%;
 }
 
-#header{
-    background-color:#4d4d4d;
+#cabecera h1{
+    background-color:#9df5f8;
     text-align: center;
     height: auto;
     margin: auto;
     margin-top: 0%;
+    color: black;
+    border: 1px solid black;
+    font-family: Calibri;
 }
