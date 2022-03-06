@@ -1,0 +1,63 @@
+commit 128dc198841d8b8c285a2d8f60872af9e8089913
+Merge: 9bc139a 386f176
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 16:41:54 2022 -0600
+
+    Solucion y aplacaion de merge
+
+commit 9bc139ad5d755403e6f0772eec31406177d1de7b
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 16:24:06 2022 -0600
+
+    Metiendo mas texto
+
+ index.html | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 386f17687e9fe8e538001bdaa7dd90c9b5c4e06c
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 16:07:47 2022 -0600
+
+    1er commit cabecera
+
+ css/styles.css | 11 ++++++++++-
+ index.html     |  3 +++
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+
+commit 977e5a453300955837fecc1dd24cd8bc537ffc0c
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 14:52:21 2022 -0600
+
+    Primer commit con Proyecto
+
+ css/styles.css | 5 +++++
+ index.html     | 8 +++++---
+ 2 files changed, 10 insertions(+), 3 deletions(-)
+
+commit a5531c80e98a9ac2f082f0e2e7d08682eb9d4e80
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 14:17:17 2022 -0600
+
+    3er commmit
+
+ archivo.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit ace0bccb3aab6991113b18e72ea2ae75ae88f864
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 14:13:52 2022 -0600
+
+    Este es mi segundo commitPlease enter the commit message for your changes. Lines starting
+
+ archivo.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 5e15303626f874a586be85233b9dbd4f85d1b747
+Author: Jefferson  Ramos <radsjefferson@gmail.com>
+Date:   Sat Mar 5 14:01:16 2022 -0600
+
+    mi primer commit
+
+ archivo.txt |  1 +
+ index.html  | 12 ++++++++++++
+ 2 files changed, 13 insertions(+)
