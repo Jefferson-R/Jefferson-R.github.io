@@ -1,0 +1,11 @@
+* 5cf2a7f (HEAD -> master, origin/master, origin/main) txt de mi primer commit
+* 48c347a Probando el commit con llaves publicas
+*   128dc19 Solucion y aplacaion de merge
+|\  
+| * 386f176 (cabecera) 1er commit cabecera
+* | 9bc139a Metiendo mas texto
+|/  
+* 977e5a4 Primer commit con Proyecto
+* a5531c8 3er commmit
+* ace0bcc Este es mi segundo commitPlease enter the commit message for your changes. Lines starting
+* 5e15303 mi primer commit
