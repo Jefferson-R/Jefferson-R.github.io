@@ -14,12 +14,13 @@ body{
 #cabecera h1{
     background-color:rgb(56, 56, 56);
     text-align: center;
-    height: auto;
+    height: 1.7em;
     margin: auto;
     margin-top: 0%;
     color: pink;
     border: 1px solid black;
     font-family: Calibri;
+    font-size: x-large;
 }
 #cabecera h5{
     margin: 0;
@@ -32,4 +33,5 @@ body{
     margin: 10%;
     margin-top: auto;
     margin-bottom: auto;
+    font-size: 1em;
 }
