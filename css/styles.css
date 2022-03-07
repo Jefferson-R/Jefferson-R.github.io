@@ -4,7 +4,7 @@ body{
     text-align: center;
 }
 
-#cabecera div{
+#cabecera{
 	border: 1px solid black;
     width: 70%;
     margin: 0 auto;
@@ -26,4 +26,10 @@ body{
     background-color: rgb(56, 56, 56);
     color: pink;
     border: 1px solid black;
+}
+
+#cabecera div{
+    margin: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
 }
