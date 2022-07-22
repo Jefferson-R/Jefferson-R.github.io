@@ -1,2 +1,3 @@
-# Primer proyecto de Git y Github
-En este proyecto aprendo a usar Git y Github segun lo que aprendi en PLatzi.
+# Proyecto de Git y Github
+
+Este es mi primer proyecto subido a Github en el proceso de aprendizaje en Platzi donde he aprendido a utilizar Git y Github.
